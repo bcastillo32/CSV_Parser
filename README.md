@@ -1,7 +1,3 @@
-
-
-Video here: https://www.loom.com/share/57a6d03b6d53499fb4c87f69306822e0
-
 To run my program, run node index.js from the terminal :)
 
 My program takes in CSV data, parses that data, organizes and aggregates the data into a hash and then uploads that organized data into a Notion databse. The data comes in a bit messy, so I made sure to trim any extra whitespace in the text and also made sure to convert all text to lowercase to mitigate any risk of duplicate entries.
